@@ -283,6 +283,8 @@
 		
 		if_match
 		{
+			"xpos"			"2"
+			"ypos"			"2"
 			"zpos"			"5"
 		}
 		
@@ -304,8 +306,7 @@
 			
 			if_match
 			{
-				"font"			"roboto12"
-				"ypos"			"13"
+				"font"		"roboto12"
 			}
 		}	
 	}

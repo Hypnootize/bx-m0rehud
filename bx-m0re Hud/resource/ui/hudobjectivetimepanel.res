@@ -156,7 +156,7 @@
 		
 		if_match
 		{
-			"xpos"	"999999"
+			"bgcolor_override"	"0 0 0 0"
 		}
 	}
 	"ServerTimeLimitLabelBG"
@@ -167,6 +167,11 @@
 		"tall"					"0"
 		"visible"				"0"
 		"enabled"				"0"
+		
+		if_match
+		{
+			"xpos"	"999999"
+		}
 	}
 	"SetupLabel"
 	{
